@@ -1,6 +1,7 @@
 package com.ic2lab.api.sample.musicplayer;
 
 public class BooleanObject<T> {
+    
     private T object;
     private boolean bool;
 
